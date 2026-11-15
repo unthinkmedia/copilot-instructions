@@ -6,7 +6,7 @@ Personal agent guidance and portable skills for focused implementation, UX revie
 
 Use one Git checkout as the source for personal skills on Windows and macOS. Installed links read directly from the checkout, so pulling updates changes the linked skills without copying them again.
 
-This collection includes `github-spot-illustration`, `implement-prototype`, `request-pr-review`, `subtle-svg-animation`, and `ux-review`. The GitHub illustration skill includes guidance, not official artwork. Work-specific skills, managed app/plugin skills, and illustration asset libraries are intentionally excluded.
+This collection includes `expressive-figurative-art`, `github-spot-illustration`, `implement-prototype`, `request-pr-review`, `subtle-svg-animation`, and `ux-review`. The expressive figurative art skill bundles rule-linked crops of user-provided artwork, approved generated head and pose studies, and final-painting examples with learning notes for creating original artwork. The GitHub illustration skill includes guidance, not official artwork. Work-specific skills, managed app/plugin skills, and third-party illustration asset libraries are intentionally excluded.
 
 ## Quickstart
 
