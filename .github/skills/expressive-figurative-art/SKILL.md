@@ -1,6 +1,6 @@
 ---
 name: expressive-figurative-art
-description: Create original non-anatomical expressive figurative artwork and head-reference galleries using the bundled approved art reference. Use for requests for this scratchy, flat-color, single-eye portrait style, impossible head-neck bends, or morphing profiles with hidden compositional symbolism. Preserve invented flat shapes, displaced facial marks, uneven black contours, and ochre/rust/turquoise color masses; avoid believable portrait anatomy with a distressed filter.
+description: Create original non-anatomical expressive figurative artwork and head-reference galleries using bundled visual references. Use for scratchy flat-color figures, impossible head-neck bends, morphing profiles, interlocking groups, and movement carried through shared contours.
 ---
 
 # Expressive figurative art
@@ -10,6 +10,11 @@ flat irregular heads, selective facial features, bending necks, and searching
 black contours. Texture supports that structure; it cannot substitute for it.
 Treat the figures as non-anatomical inventions, not ordinary portraits with
 exaggerated poses. Their connections and feature placement can be impossible.
+
+For earth-toned angular portraits and hyper-closeups, use the separate
+[`angular-closeup-art` skill](../angular-closeup-art/SKILL.md).
+Do not mix its plane construction and rubbed surface with this flowing
+figurative treatment unless requested.
 
 ## Reference and scope
 
@@ -78,6 +83,11 @@ that every facial mark or anatomical connection is correct.
 | [Shoulder ride with sweeping hair](assets/final-paintings/shoulder-ride-sweeping-hair.png) | A broad S-shaped hair path wraps the two figures; the raised arm opens the composition while the supporting hand returns attention downward. | Learn the directional changes, not a mandatory S curve. Do not copy the more conventional nose and mouth arrangement. |
 | [Interlocking shoulder ride](assets/final-paintings/shoulder-ride-interlocking.png) | Tight cropping, overlapping faces, the upper hand, and a dark hair channel compress two figures into one connected arrangement. | Overlapping faces are not automatically fused profiles or a hidden heart; study the actual boundaries before claiming either. |
 | [Child kissing a baby](assets/final-paintings/child-kissing-baby.png) | The bowed head, cradling arms, and enclosed white blanket make the relationship legible with few surrounding details. | Use for gesture and enclosure only. The orderly profiles remain too conventional to establish the skill's non-anatomical facial style. |
+| [Guitarist and dancing couple](assets/final-paintings/guitarist-and-dancing-couple.png) | Yellow guitar curves continue into garment and hair masses; joined arms and counter-leaning pink/violet bodies make music readable through shared forms and white gaps. | Yellow, violet, and pink are a requested palette, not new defaults. Preserve recognizable guitar contact and distinct people when transferring the merged contours; do not copy every facial mark. |
+| [Woodland couple with wrapping hair](assets/final-paintings/woodland-couple-wrapping-hair.png) | Broad sage hair sweeps behind shoulders and across torsos and legs, enclosing the pair while leaving joined hands and small pale gaps readable. Simpler stepping limbs keep the hair as the movement carrier. | Dusty rose and ochre skin, sage hair, and the man's straight hair are scoped choices. Study enclosure and overlap, not the relatively conventional faces, dense texture, or a mandatory coil arrangement. |
+| [Mother and daughters: circular shelter](assets/final-paintings/mother-and-daughters-circular-shelter.png) | Aubergine hair and overlapping protective arms form a close enclosure around three differently scaled figures; opposing head tilts return attention toward the youngest. | Coral, lavender, and apricot are scoped colors. Learn the nesting and shared hair direction, not a mandatory oval frame or repeated eye symbols. |
+| [Mother and daughters: into the wind](assets/final-paintings/mother-and-daughters-into-the-wind.png) | Overlapping bodies, linked hands, forward steps, and long trailing hair create a protective chain with a strong horizontal direction. | The profiles and body mechanics are relatively conventional. Use for directional movement and contact, not as the authority for invented anatomy; cropped extremities are not a default. |
+| [Mother and daughters: protective embrace](assets/final-paintings/mother-and-daughters-protective-embrace.png) | Rear, middle, and foreground figures shelter one another through nested arms; ochre hair passes between their tilted heads and continues around the youngest. | Rust, turquoise, and clay distinguish exposed-body fragments. The mother's visible second eye is not a requirement; apply current eye-count and facial-construction rules rather than copying all features. |
 
 Select one useful lesson and name it in the image prompt. Retaining a finished
 painting is not blanket approval of its style fidelity. Current instructions
